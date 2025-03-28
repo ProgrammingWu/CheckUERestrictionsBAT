@@ -1,7 +1,7 @@
 @ECHO OFF
 echo Copyright(c) 2025 HongZhe Pei. All Rights Reserved.
 echo The sole source of the script, please identify counterfeit versions: 
-echo https://github.com/ProgrammingWu/CheckUE5RestrictionsBAT
+echo https://github.com/ProgrammingWu/CheckUERestrictionsBAT
 echo =============================================================
 
 echo Licensed under the Apache License, Version 2.0 (the "License");
