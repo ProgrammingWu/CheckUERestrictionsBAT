@@ -21,7 +21,7 @@ Windows only supports BAT files with CRLF line endings and ANSI encoding.
 
 CRLF: We've enforced Git to manage this file using CRLF line endings. This should work as intended.
 
-ANSI: Windows 11 Notepad recognizes text files containing non-ANSI characters (e.g., Chinese) as UTF-8 encoded. If you modify this file and add non-ANSI characters, saving it will default to UTF-8 encoding, rendering the script inoperable. Be cautious when editing.
+ANSI: In Windows 11, Notepad recognizes text files containing only ANSI-encoded characters as UTF-8 encoded files. Therefore, if you modify such a file by adding non-ANSI characters (e.g., Chinese characters) and save it, Notepad will save the file in UTF-8 encoding instead, which may cause it to fail to run. Please note this issue.
 
 Issue Reporting
 To report issues, please visit the GitHub Issues page:
@@ -51,7 +51,7 @@ windows仅支持CRLF换行符和ANSI编码的BAT文件运行。
 
 CRLF：我已经强制让GIT管理此文件时，使用CRLF换行符。应该不会有问题。
 
-ANSI: Windows11的记事本，会把没有ANSI编码（如中文字符）的文本文件识别为UTF8编码，所以如果修改此文件，加入了非ANSI字符，保存的时候就会保存为UTF8编码的文件，导致无法运行。请注意这一点。
+ANSI: Windows11的记事本，会把只有ANSI编码字符的文本文件识别为UTF8编码，所以如果修改此文件，加入了非ANSI字符（如中文字符），保存的时候就会保存为UTF8编码的文件，导致无法运行。请注意这一点。
 
 # 问题汇报
 如发现问题，请在issues汇报问题。
