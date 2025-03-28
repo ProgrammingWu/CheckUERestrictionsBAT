@@ -1,4 +1,6 @@
 # Introduction
+Bilibili Personal Homepage：https://space.bilibili.com/381317561
+
 CheckUE5Restrictions-ZH.bat - Chinese version script. The original script, but may display garbled characters. Hence the English version is provided.
 
 CheckUE5Restrictions-EN.bat - English version script. If you encounter garbled characters with CheckUE5Restrictions-ZH.bat, please download this one.
@@ -27,6 +29,7 @@ https://github.com/ProgrammingWu/CheckUERestrictionsBAT/issues
 
 # ===========================================================
 # 简介
+B站个人主页： https://space.bilibili.com/381317561
 
 CheckUE5Restrictions-ZH.bat - 中文版脚本。最原始的脚本，不过考虑到会乱码。所以才有了英文版脚本
 
