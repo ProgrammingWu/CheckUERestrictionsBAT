@@ -1,5 +1,5 @@
 @ECHO OFF
-echo Copyright(c) 2025 HongZhe Pei. All Rights Reserved.
+echo Copyright(c) 2025 Pei Hongzhe. All Rights Reserved.
 echo The sole source of the script, please identify counterfeit versions: 
 echo https://github.com/ProgrammingWu/CheckUERestrictionsBAT
 echo =============================================================

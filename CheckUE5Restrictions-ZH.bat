@@ -1,5 +1,5 @@
 @ECHO OFF
-echo Copyright(c) 2025 HongZhe Pei. All Rights Reserved.
+echo Copyright(c) 2025 Pei Hongzhe. All Rights Reserved.
 Copyright(c) 2025 裴鸿喆. All Rights Reserved.
 echo 脚本唯一来源： 
 echo https://github.com/ProgrammingWu/CheckUERestrictionsBAT
